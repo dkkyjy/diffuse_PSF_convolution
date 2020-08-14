@@ -1,4 +1,4 @@
-# simulation the convolution of diffuse model with PSF and fitting
+# Simulation and fitting the convolution of diffuse model with PSF
 
 ## diffuse model
 
