@@ -1,6 +1,8 @@
+*.txt
 *.dat
 data/
 data1/
+data2/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
